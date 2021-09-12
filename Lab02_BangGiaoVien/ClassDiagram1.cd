@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab02_BangGiaoVien.DanhMucMonHoc">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAkCAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>DanhMucMonHoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab02_BangGiaoVien.frmGiaoVien">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>MgAEAAAAECHAJjEAOACAkMACAGMQAAAAgAECCIAIEAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab02_BangGiaoVien.frmTBGiaoVien">
+    <Position X="1.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIACAAAAAAAICAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>frmTBGiaoVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab02_BangGiaoVien.frmTimKiemGiaoVien">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAEgBAAACAACAAQAACAAIACEqAAEEAAACCAAABAAAA=</HashCode>
+      <FileName>frmTimKiemGiaoVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab02_BangGiaoVien.GiaoVien">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAUAAAAAAAAEAAAAAABAAAACQAAICI=</HashCode>
+      <FileName>GiaoVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab02_BangGiaoVien.MonHoc">
+    <Position X="7" Y="4" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAEAAAAAIAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>MonHoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab02_BangGiaoVien.Program">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab02_BangGiaoVien.QuanLyGiaoVien">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Lab02_BangGiaoVien.QuanLyGiaoVien.KieuTim" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>QuanLyGiaoVien.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAQAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>QuanLyGiaoVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab02_BangGiaoVien.Properties.Resources">
+    <Position X="8.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQIAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab02_BangGiaoVien.Properties.Settings">
+    <Position X="5.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
